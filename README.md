@@ -1,4 +1,4 @@
-# Firefox-hardening-profile
+# Firefox profile hardening
 This profile makes firefox browser much more privacy friendly. 
 copy the three code file from the folder to the <br>
 <code>for windows C:\Users\(username)\AppData\Local\Mozilla Firefox\defaults\pref </code> <br>
