@@ -8,6 +8,7 @@
  * To make a manual change to preferences, you can visit the URL about:config
  */
 
+
 user_pref("accessibility.force_disabled", 1);
 user_pref("app.shield.optoutstudies.enabled", false);
 user_pref("app.update.auto", false);
