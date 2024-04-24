@@ -3,6 +3,7 @@ pref("general.config.filename", "mozilla.cfg");
 
 pref("xpinstall.enabled", false); 
 
+
 pref("accessibility.typeaheadfind.flashBar", 0);
 pref("app.update.lastUpdateTime.addon-background-update-timer", 1567247831);
 pref("app.update.lastUpdateTime.background-update-timer", 1567248071);
